@@ -4,6 +4,7 @@ public class Main {
         Account account = new Account("John", "1337");
 
 
+        System.out.println(account);
 
     }
 }
